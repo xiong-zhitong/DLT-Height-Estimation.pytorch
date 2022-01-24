@@ -1,6 +1,8 @@
 # -DLT-Height-Estimation.pytorch
 <div align="left">
-  <img src="logo.png" width="200"/>  GeoAI is a library based on PyTorch, that provides datasets, model implementations and benchmark results for Remote Sensing data.
+  <img src="logo.png" width="200"/>  
+
+GeoAI is a library based on PyTorch, that provides datasets, model implementations and benchmark results for Remote Sensing data.
 
 The goal of this library is to make it simple:
 
@@ -16,9 +18,6 @@ for remote sensing experts to use their data in machine learning workflows.
 [![open issues](https://isitmaintained.com/badge/open/open-mmlab/mmdetection.svg)](https://github.com/open-mmlab/mmdetection/issues)
 
 
-  <img src="https://user-images.githubusercontent.com/12907710/137271636-56ba1cd2-b110-4812-8221-b4c120320aa9.png"/>
-
-
 [📘Documentation](https://mmdetection.readthedocs.io/en/v2.20.0/) |
 [🛠️Installation](https://mmdetection.readthedocs.io/en/v2.20.0/get_started.html) |
 [👀Model Zoo](https://mmdetection.readthedocs.io/en/v2.20.0/model_zoo.html) |
@@ -29,8 +28,6 @@ for remote sensing experts to use their data in machine learning workflows.
 </div>
 
 ## Introduction
-
-English | [简体中文](README_zh-CN.md)
 
 MMDetection is an open source object detection toolbox based on PyTorch. It is
 a part of the [OpenMMLab](https://openmmlab.com/) project.
