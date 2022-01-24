@@ -1,4 +1,4 @@
-# -DLT-Height-Estimation.pytorch
+# DLT-Height-Estimation.pytorch
 <div align="left">
   <img src="logo.png" width="200"/>  
 
