@@ -1,6 +1,6 @@
 # -DLT-Height-Estimation.pytorch
-<div align="center">
-  <img src="logo.png" width="600"/>
+<div align="left">
+  <img src="logo.png" width="200"/>
 
 
 [![PyPI](https://img.shields.io/pypi/v/mmdet)](https://pypi.org/project/mmdet)
